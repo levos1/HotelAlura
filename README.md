@@ -5,7 +5,7 @@ Este código es un sistema de registro de reservas y huespedes de un hotel ficti
 
 
 Para poder usar este proyecto en su equipo deben de crear una base de datos sql llamada "hotel_alura" con la ayuda del archivo schema.sql que crea las 2 tablas ( reservas y huespedes) además de cambiar los valores usados para la conexión en la línea 9 
-del archivo DBConection en la carpeta "\src\factorys" para que coincidan con sus credenciales
+del archivo DBConection en la carpeta "\src\factorys" para que coincidan con sus credenciales.
 
 1: Si se ejecuta el programa desde la clase Menu principal habrá un login donde los valores por defecto son : usuario ->  admin , contraseña-> admin
 2: Al logear pueden nagevar las vistas de reserva o busqueda
